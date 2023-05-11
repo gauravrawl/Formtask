@@ -1,0 +1,25 @@
+
+  body{
+    background-image:url('bgimage.png');
+    background-size: cover;
+    
+  }
+  #hd{
+    color: #a71389;
+ }
+
+.container{
+    font-family: serif;
+    font-size: x-large;
+    color: aliceblue
+    
+}
+
+#btn{
+    width: 30%;
+    height: 40px;
+    font-size: 18px;
+    background-color: #bf1d7e;
+    color: white;
+    border-radius: 10%;
+  }
